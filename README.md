@@ -27,4 +27,6 @@ The electroencephalogram (EEG) signals are commonly used for diagnosis of epilep
   -  CUDA version 11.0.
   -  It is recommended to have a GPU installed on your system.</i>
   
-dataset link : https://physionet.org/content/chbmit/1.0.0/
+CHB-MIT dataset link : https://physionet.org/content/chbmit/1.0.0/
+Bonn Dataset link : https://drive.google.com/drive/folders/1OMN70Go08ldaHlfGFjsM2a6I21pU2c78?usp=sharing
+
